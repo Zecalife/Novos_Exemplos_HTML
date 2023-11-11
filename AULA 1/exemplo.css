@@ -1,0 +1,21 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#33303e;
+
+}
+.titulo{
+font-family: Arial, Helvetica, sans-serif;
+color: #300030;
+}
+
+#ultimoParagrafo{
+color:#777;
+text-align: center;
+}
+
+div{
+border-width: 1px;
+border-style: solid;
+border-color: #ccc;
+border-radius: 8px;
+}
